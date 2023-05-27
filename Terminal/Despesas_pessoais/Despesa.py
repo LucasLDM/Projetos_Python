@@ -5,5 +5,3 @@ class Despesa:
         self.descricao = descricao
         self.valor = valor
         self.data = data
-    
-    
